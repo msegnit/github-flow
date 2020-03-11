@@ -1,0 +1,5 @@
+red
+light grey
+white
+yellow
+cornflower blue
